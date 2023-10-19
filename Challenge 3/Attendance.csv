@@ -1,0 +1,4 @@
+Staff ID,Avatar,Last Name,Surname,Name,Check-in,Check-out,Time in,Time out,Working Duration,Attendance
+Thanh,./gui/aligned/Thanh/avatar.png,Nguyễn,Phước,Thành,./gui/aligned/Thanh/in.png,./gui/aligned/Thanh/out.png,16:21:31,16:22:12,0:00:41,Present
+Minh,./gui/aligned/Minh/avatar.png,Vu,Khai,Minh,,,0.0,Processing,0.0,Processing
+Quynh,./gui/aligned/Quynh/avatar.png,Nguyễn,Thị Diễm,Quỳnh,,,0.0,Processing,0.0,Processing
