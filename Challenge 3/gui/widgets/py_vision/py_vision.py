@@ -58,7 +58,7 @@ class ModelFunction(QWidget):
     def turn_on_off_model(self):
         if self.status is True:
             self.status = False
-            self.display_image(".\gui\images\svg_images\Classroom.svg")
+            self.display_image(".\gui\images\svg_images\CoffeeShop.svg")
             
             # Đọc vào file CSV
             df = pd.read_csv('./Attendance.csv')
@@ -71,7 +71,7 @@ class ModelFunction(QWidget):
             self.status = True
 
     def update_frame(self):
-        self.display_image(".\gui\images\svg_images\Classroom.svg")
+        self.display_image(".\gui\images\svg_images\CoffeeShop.svg")
         if self.status is True:
             # Mở webcam nếu chưa mở
             self.open_webcam()
