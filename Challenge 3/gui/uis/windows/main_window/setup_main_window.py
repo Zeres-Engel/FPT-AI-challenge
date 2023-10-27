@@ -132,6 +132,9 @@ class SetupMainWindow:
         df['Attendance'] = 'Processing'
         df['Check-in'] = None
         df['Check-out'] = None
+        df['Time in'] = None
+        df['Time out'] = None
+        df['Working Duration'] = 0
  
 
         # Ghi lại dữ liệu đã cập nhật vào file CSV
